@@ -1,6 +1,4 @@
 ## swapbookx
-
-![1](screenshots/main.png)
 Mutual Book Sharing made easy
 
 | ![1](screenshots/1.png) | ![1](screenshots/2.png) |
